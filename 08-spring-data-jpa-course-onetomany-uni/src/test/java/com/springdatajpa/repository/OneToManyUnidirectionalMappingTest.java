@@ -49,7 +49,7 @@ public class OneToManyUnidirectionalMappingTest {
 
         //Create Address Billing
         Address address = new Address();
-        address.setCity("Mexico");
+        address.setCity("México");
         address.setStreet("Av. Mario Colin");
         address.setState("Estado de México");
         address.setCountry("Mexico");
