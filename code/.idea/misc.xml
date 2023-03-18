@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-spring-data-jpa-course/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-data-jpa-course/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-data-jpa-course/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-data-jpa-course/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-data-jpa-course/pom.xml" />
+        <option value="$PROJECT_DIR$/07-spring-data-jpa-course-onetoone-bi/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-data-jpa-course-onetoone-uni/pom.xml" />
+        <option value="$PROJECT_DIR$/09-spring-data-jpa-course-onetomany-bi/pom.xml" />
+        <option value="$PROJECT_DIR$/08-spring-data-jpa-course-onetomany-uni/pom.xml" />
+        <option value="$PROJECT_DIR$/11-spring-data-jpa-course-manytomany-uni/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-data-jpa-course-onetomany-bi-product-productCategory/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-spring-data-jpa-course/02-spring-data-jpa-course.iml" filepath="$PROJECT_DIR$/02-spring-data-jpa-course/02-spring-data-jpa-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-spring-data-jpa-course/03-spring-data-jpa-course.iml" filepath="$PROJECT_DIR$/03-spring-data-jpa-course/03-spring-data-jpa-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-spring-data-jpa-course/04-spring-data-jpa-course.iml" filepath="$PROJECT_DIR$/04-spring-data-jpa-course/04-spring-data-jpa-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-spring-data-jpa-course/05-spring-data-jpa-course.iml" filepath="$PROJECT_DIR$/05-spring-data-jpa-course/05-spring-data-jpa-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-spring-data-jpa-course-onetoone-uni/06-spring-data-jpa-course-onetoone-uni.iml" filepath="$PROJECT_DIR$/06-spring-data-jpa-course-onetoone-uni/06-spring-data-jpa-course-onetoone-uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-spring-data-jpa-course-onetoone-bi/07-spring-data-jpa-course-onetoone-bi.iml" filepath="$PROJECT_DIR$/07-spring-data-jpa-course-onetoone-bi/07-spring-data-jpa-course-onetoone-bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-spring-data-jpa-course-onetomany-uni/08-spring-data-jpa-course-onetomany-uni.iml" filepath="$PROJECT_DIR$/08-spring-data-jpa-course-onetomany-uni/08-spring-data-jpa-course-onetomany-uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-spring-data-jpa-course-onetomany-bi/09-spring-data-jpa-course-onetomany-bi.iml" filepath="$PROJECT_DIR$/09-spring-data-jpa-course-onetomany-bi/09-spring-data-jpa-course-onetomany-bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-spring-data-jpa-course-onetomany-bi-product-productCategory/10-spring-data-jpa-course-onetomany-bi-product-productCategory.iml" filepath="$PROJECT_DIR$/10-spring-data-jpa-course-onetomany-bi-product-productCategory/10-spring-data-jpa-course-onetomany-bi-product-productCategory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-spring-data-jpa-course-manytomany-uni/11-spring-data-jpa-course-manytomany-uni.iml" filepath="$PROJECT_DIR$/11-spring-data-jpa-course-manytomany-uni/11-spring-data-jpa-course-manytomany-uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-data-jpa-course/spring-data-jpa-course.iml" filepath="$PROJECT_DIR$/01-spring-data-jpa-course/spring-data-jpa-course.iml" />
+    </modules>
+  </component>
+</project>
