@@ -1,10 +1,10 @@
 package com.springdatajpa.repository;
 
 
-import com.springdatajpa.entity.manytomany.unidirectional.Address;
-import com.springdatajpa.entity.manytomany.unidirectional.Order;
-import com.springdatajpa.entity.manytomany.unidirectional.OrderItem;
-import com.springdatajpa.entity.manytomany.unidirectional.Product;
+import com.springdatajpa.entity.manytomany.bidirectional.Address;
+import com.springdatajpa.entity.manytomany.bidirectional.Order;
+import com.springdatajpa.entity.manytomany.bidirectional.OrderItem;
+import com.springdatajpa.entity.manytomany.bidirectional.Product;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
 package com.springdatajpa.repository;
 
-import com.springdatajpa.entity.manytomany.unidirectional.Product;
+import com.springdatajpa.entity.manytomany.bidirectional.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

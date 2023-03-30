@@ -1,7 +1,7 @@
 package com.springdatajpa.repository;
 
-import com.springdatajpa.entity.manytomany.unidirectional.Product;
-import com.springdatajpa.entity.manytomany.unidirectional.ProductCategory;
+import com.springdatajpa.entity.manytomany.bidirectional.Product;
+import com.springdatajpa.entity.manytomany.bidirectional.ProductCategory;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

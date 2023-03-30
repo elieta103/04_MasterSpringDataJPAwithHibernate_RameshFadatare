@@ -1,14 +1,12 @@
 package com.springdatajpa.repository;
 
-import com.springdatajpa.entity.manytomany.unidirectional.Role;
-import com.springdatajpa.entity.manytomany.unidirectional.User;
+import com.springdatajpa.entity.manytomany.bidirectional.Role;
+import com.springdatajpa.entity.manytomany.bidirectional.User;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import java.math.BigDecimal;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 @SpringBootTest
@@ -44,13 +42,14 @@ public class ManyToManyUnidirectionalMappingTest {
 
     @Test
     void updateUserTest(){
-        User user = userRepository.findById(1L).get();
+        User user = userRepository.findById(2L).get();
         user.setFirstName("Eliel Upd");
         user.setEmail("gresshel@gmail.com_Upd");
 
         Role roleUser = Role.builder()
                 .name("ROLE_USER")
                 .build();
+
 
         user.getRoles().add(roleUser);
 
@@ -66,6 +65,6 @@ public class ManyToManyUnidirectionalMappingTest {
 
     @Test
     void deleteUserTest(){
-      userRepository.deleteById(1L);
+      userRepository.deleteById(2L);
     }
 }

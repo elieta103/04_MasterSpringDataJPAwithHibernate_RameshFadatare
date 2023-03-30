@@ -18,6 +18,7 @@
         <module name="09-spring-data-jpa-course-onetomany-bi" />
         <module name="11-spring-data-jpa-course-manytomany-uni" />
         <module name="07-spring-data-jpa-course-onetoone-bi" />
+        <module name="12-spring-data-jpa-course-manytomany-bi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -31,6 +32,7 @@
       <module name="09-spring-data-jpa-course-onetomany-bi" target="19" />
       <module name="10-spring-data-jpa-course-onetomany-bi-product-productCategory" target="19" />
       <module name="11-spring-data-jpa-course-manytomany-uni" target="19" />
+      <module name="12-spring-data-jpa-course-manytomany-bi" target="19" />
       <module name="spring-data-jpa-course" target="19" />
     </bytecodeTargetLevel>
   </component>
@@ -46,6 +48,7 @@
       <module name="09-spring-data-jpa-course-onetomany-bi" options="-parameters" />
       <module name="10-spring-data-jpa-course-onetomany-bi-product-productCategory" options="-parameters" />
       <module name="11-spring-data-jpa-course-manytomany-uni" options="-parameters" />
+      <module name="12-spring-data-jpa-course-manytomany-bi" options="-parameters" />
       <module name="spring-data-jpa-course" options="-parameters" />
     </option>
   </component>
