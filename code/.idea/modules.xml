@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/10-spring-data-jpa-course-onetomany-bi-product-productCategory/10-spring-data-jpa-course-onetomany-bi-product-productCategory.iml" filepath="$PROJECT_DIR$/10-spring-data-jpa-course-onetomany-bi-product-productCategory/10-spring-data-jpa-course-onetomany-bi-product-productCategory.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-spring-data-jpa-course-manytomany-uni/11-spring-data-jpa-course-manytomany-uni.iml" filepath="$PROJECT_DIR$/11-spring-data-jpa-course-manytomany-uni/11-spring-data-jpa-course-manytomany-uni.iml" />
       <module fileurl="file://$PROJECT_DIR$/12-spring-data-jpa-course-manytomany-bi/12-spring-data-jpa-course-manytomany-bi.iml" filepath="$PROJECT_DIR$/12-spring-data-jpa-course-manytomany-bi/12-spring-data-jpa-course-manytomany-bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-springboot-search-rest-api/13-springboot-search-rest-api.iml" filepath="$PROJECT_DIR$/13-springboot-search-rest-api/13-springboot-search-rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-springboot-transaction/14-springboot-transaction.iml" filepath="$PROJECT_DIR$/14-springboot-transaction/14-springboot-transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-spring-data-jpa-course/spring-data-jpa-course.iml" filepath="$PROJECT_DIR$/01-spring-data-jpa-course/spring-data-jpa-course.iml" />
     </modules>

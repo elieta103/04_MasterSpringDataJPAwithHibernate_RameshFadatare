@@ -8,16 +8,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="03-spring-data-jpa-course" />
-        <module name="08-spring-data-jpa-course-onetomany-uni" />
         <module name="02-spring-data-jpa-course" />
-        <module name="10-spring-data-jpa-course-onetomany-bi-product-productCategory" />
-        <module name="spring-data-jpa-course" />
         <module name="04-spring-data-jpa-course" />
         <module name="05-spring-data-jpa-course" />
+        <module name="14-springboot-transaction" />
         <module name="06-spring-data-jpa-course-onetoone-uni" />
-        <module name="09-spring-data-jpa-course-onetomany-bi" />
         <module name="11-spring-data-jpa-course-manytomany-uni" />
         <module name="07-spring-data-jpa-course-onetoone-bi" />
+        <module name="08-spring-data-jpa-course-onetomany-uni" />
+        <module name="10-spring-data-jpa-course-onetomany-bi-product-productCategory" />
+        <module name="spring-data-jpa-course" />
+        <module name="13-springboot-search-rest-api" />
+        <module name="09-spring-data-jpa-course-onetomany-bi" />
         <module name="12-spring-data-jpa-course-manytomany-bi" />
       </profile>
     </annotationProcessing>
@@ -33,6 +35,8 @@
       <module name="10-spring-data-jpa-course-onetomany-bi-product-productCategory" target="19" />
       <module name="11-spring-data-jpa-course-manytomany-uni" target="19" />
       <module name="12-spring-data-jpa-course-manytomany-bi" target="19" />
+      <module name="13-springboot-search-rest-api" target="17" />
+      <module name="14-springboot-transaction" target="17" />
       <module name="spring-data-jpa-course" target="19" />
     </bytecodeTargetLevel>
   </component>
@@ -49,6 +53,8 @@
       <module name="10-spring-data-jpa-course-onetomany-bi-product-productCategory" options="-parameters" />
       <module name="11-spring-data-jpa-course-manytomany-uni" options="-parameters" />
       <module name="12-spring-data-jpa-course-manytomany-bi" options="-parameters" />
+      <module name="13-springboot-search-rest-api" options="-parameters" />
+      <module name="14-springboot-transaction" options="-parameters" />
       <module name="spring-data-jpa-course" options="-parameters" />
     </option>
   </component>

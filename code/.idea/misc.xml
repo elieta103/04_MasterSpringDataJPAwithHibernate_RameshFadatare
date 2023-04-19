@@ -15,6 +15,8 @@
         <option value="$PROJECT_DIR$/11-spring-data-jpa-course-manytomany-uni/pom.xml" />
         <option value="$PROJECT_DIR$/10-spring-data-jpa-course-onetomany-bi-product-productCategory/pom.xml" />
         <option value="$PROJECT_DIR$/12-spring-data-jpa-course-manytomany-bi/pom.xml" />
+        <option value="$PROJECT_DIR$/13-springboot-search-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/14-springboot-transaction/pom.xml" />
       </list>
     </option>
   </component>
